@@ -20,7 +20,7 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * _partition - Order a subset of an array of integers according to
+ * partition - Order a subset of an array of integers according to
  *                    the lomuto partition scheme (last element as pivot).
  * @array: The array of integers.
  * @size: The size of the array.
